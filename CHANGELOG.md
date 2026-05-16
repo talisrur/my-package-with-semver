@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.0 (2026-05-16)
+
+### Features
+
+- Introduce a breaking change
+  ([`c5a6177`](https://github.com/talisrur/my-package-with-semver/commit/c5a6177d257eb2a0e732e30114a7064ffd8b62fd))
+
+
 ## v1.1.0 (2026-05-16)
 
 ### Bug Fixes
