@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.1 (2026-05-16)
+
+### Bug Fixes
+
+- Correct a minor bug
+  ([`7972c00`](https://github.com/talisrur/my-package-with-semver/commit/7972c006a306832d920eb8bbd025b45a4c7ac6b0))
+
+
 ## v2.0.0 (2026-05-16)
 
 ### Features
